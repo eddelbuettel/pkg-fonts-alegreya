@@ -12,7 +12,7 @@ OTF files for [Alegreya](https://github.com/huertatipografica/Alegreya)
 
 Here is a simple screenshot showing a math font demo and the Emacs font selector:
 
-![](screenshot/libertinus-demo.png)
+![](screenshot/alegreya-demo.png)
 
 
 
